@@ -1,0 +1,58 @@
+≡ CALLA ≡
+
+Copyright (C) 2013-2016 Christopher Ho / symbolthree.com
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+  
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 59 Temple Place - Suite 330, Boston, MA  02111-1307, USA.
+
+========================================
+README for CALLA 1.3
+========================================
+- unzip the archive to any directory
+- start the demo by CALLA.sh or CALLA.exe
+
+========================
+Changes in v1.3
+========================
+- Product rebrand from SYMPLiK to symboltree.com
+- Use log4j for logging. Logging parameters removed.
+  * add log4j-api-2.6.2.jar, log4j-core-2.6.2.jar in classpath; log4j2.xml in current dir.
+- change button text to icons
+- add help button and parameter "flower.help.file"
+
+========================
+Changes in v1.2
+========================
+- Add Choice pagination features controlled by flower.choice.size and flower.choice.max parameters
+- Add Exit confirmation, controlled by parameter "flower.exit.comfirm"
+- Add splash screen hook in GUI mode
+
+========================
+Changes in v1.1
+========================
+- Use JDOM 2
+- Java 7 compatible
+
+========================
+Changes in v1.0 build 73
+========================
+- Add text-based directory and file browser
+- Fix line wrap logic in GUI mode; allow to line wrap text by using Question.lineWrap() method
+- Put "[B] Back" and "[X] Exit" on the same line
+- Add new example for tutorial (set flower.start=symplik.flower.sample.TestIntroduction to see it)
+
+========================
+Changes in v1.0 build 52
+========================
+- Initial release
