@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test name="Internet Addiction Test" source="http://www.healthyplace.com/psychological-tests/internet-addiction-test/">
+	<About>
+This Internet addiction screening test can help determine whether you might be spending way too much time 
+on the Internet (to the point where your internet use is impacting various areas of your life). Use the results 
+to decide if you need to see a doctor or other mental health professional to further discuss your addictive 
+use of the Internet.
+(*Internet addiction is not a psychiatric disorder as defined by the DSM IV.)
+</About>
+	<Instruction>This 20-item questionnaire measures mild, moderate, and severe levels of Internet Addiction. 
+Press Enter to start.</Instruction>
+	<Questions>
+		<Question no="1">How often do you find that you stay on-line longer than you intended?</Question>
+		<Question no="2">How often do you neglect household chores to spend more time on-line?</Question>
+		<Question no="3">How often do you prefer the excitement of the Internet to intimacy with your partner?</Question>
+		<Question no="4">How often do you form new relationships with fellow on-line users?</Question>
+		<Question no="5">How often do others in your life complain to you about the amount of time you spend on-line?</Question>
+		<Question no="6">How often do your grades or school work suffer because of the amount of time you spend on-line?</Question>
+		<Question no="7">How often do you check your e-mail before something else that you need to do?</Question>
+		<Question no="8">How often does your job performance or productivity suffer because of the Internet?</Question>
+		<Question no="9">How often do you become defensive or secretive when anyone asks you what you do on-line?</Question>
+		<Question no="10">How often do you block out disturbing thoughts about your life with soothing thoughts of the Internet?</Question>
+		<Question no="11">How often do you find yourself anticipating when you will go on-line again?</Question>
+		<Question no="12">How often do you fear that life without the Internet would be boring, empty, and joyless?</Question>
+		<Question no="13">How often do you snap, yell, or act annoyed if someone bothers you while you are on-line?</Question>
+		<Question no="14">How often do you lose sleep due to late-night log-ins?</Question>
+		<Question no="15">How often do you feel preoccupied with the Internet when off-line, or fantasize about being on-line?</Question>
+		<Question no="16">How often do you find yourself saying "just a few more minutes" when on-line?</Question>
+		<Question no="17">How often do you try to cut down the amount of time you spend on-line and fail?</Question>
+		<Question no="18">How often do you try to hide how long you've been on-line?</Question>
+		<Question no="19">How often do you choose to spend more time on-line over going out with others?</Question>
+		<Question no="20">How often do you feel depressed, moody, or nervous when you are off-line, which goes away once you are back on-line?</Question>
+	</Questions>
+	<Results>
+		<Suggestion>
+After you have identified the category that fits your total score, look back at those questions for which you scored an "Often" or "Always". 
+Did you realize this was a significant problem for you?
+For help, please print out your Internet Addiction test and score and share it with your doctor or therapist.
+Remember, this is NOT a diagnosis. Only a doctor or qualified mental health professional can make a diagnosis of any 
+type of mental health problem and recommend treatments.
+</Suggestion>
+		<Result scoreFrom="20" scoreTo="49">You are an average on-line user. You may surf the Web a bit too long at times, but you have control over your usage.</Result>
+		<Result scoreFrom="50" scoreTo="79">You are experiencing occasional or frequent problems because of the Internet. You should consider their full impact on your life.</Result>
+		<Result scoreFrom="80" scoreTo="100">Your Internet usage is causing significant problems in your life. You should evaluate the impact of the Internet on your life and address the problems directly caused by your Internet usage.</Result>
+	</Results>
+</Test>
